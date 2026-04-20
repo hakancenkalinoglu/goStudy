@@ -1,0 +1,47 @@
+https://mocki.io/v1/3ef708ca-aa87-4dfa-b071-a86346dac9e2
+
+{
+  "Records": [
+    {
+      "Company": {
+        "id": "CMP-1042",
+        "name": "TechNova Solutions",
+        "sector": "Software",
+        "location": "Istanbul",
+        "Users": [
+          {
+            "id": "USR-9901",
+            "name": "Ahmet Yilmaz",
+            "role": "Backend Developer",
+            "email": "ahmet@technova.com",
+            "isActive": true
+          },
+          {
+            "id": "USR-9902",
+            "name": "Ayse Kaya",
+            "role": "Product Manager",
+            "email": "ayse@technova.com",
+            "isActive": true
+          }
+        ]
+      }
+    },
+    {
+      "Company": {
+        "id": "CMP-2088",
+        "name": "Global Data Corp",
+        "sector": "Analytics",
+        "location": "London",
+        "Users": [
+          {
+            "id": "USR-8801",
+            "name": "Mehmet Demir",
+            "role": "Data Scientist",
+            "email": "mehmet@globaldata.com",
+            "isActive": false
+          }
+        ]
+      }
+    }
+  ]
+}
